@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/pages/Home.module.css'
 import { ListButtons } from '../components/ListButtons'
 
 export default function Home() {
