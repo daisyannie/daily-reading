@@ -1,0 +1,75 @@
+{
+  "schedule": [
+    {
+      "day": "1",
+      "parts": [
+        {
+          "label": "GÊNESIS 1",
+          "initialBook": "01",
+          "finalBook": "01",
+          "initialChapter": "1",
+          "finalChapter": "1"
+        }
+      ]
+    },
+    {
+      "day": "2",
+      "parts": [
+        {
+          "label": "GÊNESIS 2",
+          "initialBook": "01",
+          "finalBook": "01",
+          "initialChapter": "1",
+          "finalChapter": "1"
+        },
+        {
+          "label": "GÊNESIS 3",
+          "initialBook": "01",
+          "finalBook": "01",
+          "initialChapter": "2",
+          "finalChapter": "3"
+        }
+      ]
+    },
+    {
+      "day": "3",
+      "parts": [
+        {
+          "label": "GÊNESIS 4",
+          "initialBook": "01",
+          "finalBook": "01",
+          "initialChapter": "4",
+          "finalChapter": "4"
+        },
+        {
+          "label": "GÊNESIS 5",
+          "initialBook": "01",
+          "finalBook": "01",
+          "initialChapter": "5",
+          "finalChapter": "5"
+        }
+      ]
+    },
+    {
+      "day": "4",
+      "parts": [
+        {
+          "label": "1 CRÔNICAS 1:1-4",
+          "initialBook": "13",
+          "finalBook": "13",
+          "initialChapter": "1",
+          "finalChapter": "1",
+          "initialVerse": "1",
+          "finalVerse": "4"
+        },
+        {
+          "label": "GÊNESIS 6",
+          "initialBook": "01",
+          "finalBook": "01",
+          "initialChapter": "6",
+          "finalChapter": "6"
+        }
+      ]
+    }
+  ]
+}
