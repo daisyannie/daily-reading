@@ -18,14 +18,8 @@ export function ListButtons() {
 
   const dateList = eachDayOfInterval({
     start: new Date('2020-01-01'),
-    end: new Date('2021-12-31')
+    end: new Date('2022-01-01')
   })
-  const filteredDateList = dateList.filter((date: Date) => {
-    console.log(date.getTime(),new Date('2020-02-29').getTime())
-    return date.getTime() != (new Date('2020-02-29')).getTime()
-  })
-  
-  console.log(dateList.length, filteredDateList.length)
 
   return (
     <div className={classes.root}>
